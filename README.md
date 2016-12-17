@@ -4,4 +4,4 @@ This is a repository containing my homework of data structure class including Se
 
 Reports and code are in their own directory.
 
-Maybe there are several bugs and if you find any, contact us at PrayStarJirachi@gmail.com.
+Maybe there are several bugs and if you find any, contact us at kipsora@gmail.com.
